@@ -15,10 +15,15 @@
 <div> 
   
   <a href="https://www.instagram.com/ina_saturn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/inara-bagatoli-811494213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/inara-bagatoli-811494213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- 
+</div>
+
+##
+##
+
+  <div align="center">  
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
   </div>
-
-
 
