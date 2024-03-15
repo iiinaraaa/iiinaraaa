@@ -6,6 +6,7 @@
   <img align="center" alt="ina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height=160 width=160img align="right" alt="ina" src="https://i.pinimg.com/564x/fb/2f/68/fb2f68a023c6cfbdff32b1594afb9112.jpg">
+  <img align="center" alt="ina-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
 </div>
 
 ##
