@@ -5,9 +5,8 @@
   <img align="center" alt="ina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height=160 width=160img align="right" alt="ina" src="https://i.pinimg.com/564x/fb/2f/68/fb2f68a023c6cfbdff32b1594afb9112.jpg">
-  <img align="center" alt="ina-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-</div>
+  <img align="center" alt="ina-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img height=200 width=200img align="right" alt="ina" src="https://cdn.discordapp.com/attachments/812512415844925502/1225922828671651922/tenor_2.gif?ex=6622e49a&is=66106f9a&hm=008c1601ff032c410177a6c998edc9738f4101e31700e5d290952bd510aa5742&">
 
 ##
 ##
