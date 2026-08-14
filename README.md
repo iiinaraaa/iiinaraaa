@@ -12,12 +12,6 @@
   <img height="180em" src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top languages" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/inara-bagatoli-811494213/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 </td>
 <td valign="middle" width="45%">
   <img width="100%" alt="ina" src="https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gifv" />
@@ -38,6 +32,12 @@
   <img align="center" alt="ina-ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img align="center" alt="ina-node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="ina-tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/inara-bagatoli-811494213/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <br>
