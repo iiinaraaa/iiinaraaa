@@ -19,7 +19,6 @@
   <img align="center" alt="ina-ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img align="center" alt="ina-node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="ina-tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="ina-postgres" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 </p>
 
 <p align="center">
@@ -38,8 +37,8 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats-eight-flax.vercel.app/api?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top languages" />
 </div>
 
 <br>
