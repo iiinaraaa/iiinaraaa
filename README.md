@@ -37,7 +37,12 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-flax.vercel.app/api?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iiinaraaa&theme=dracula&hide_border=true" alt="Activity graph" />
+</div>
+
+<br>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top languages" />
 </div>
 
