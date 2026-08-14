@@ -37,19 +37,15 @@
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iiinaraaa&theme=dracula&hide_border=true" alt="Activity graph" />
-</div>
-
-<br>
-
-<div align="center">
   <img height="180em" src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top languages" />
 </div>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiinaraaa/iiinaraaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiinaraaa/iiinaraaa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iiinaraaa/iiinaraaa/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiinaraaa/iiinaraaa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiinaraaa/iiinaraaa/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iiinaraaa/iiinaraaa/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
