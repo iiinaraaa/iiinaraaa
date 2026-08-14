@@ -6,39 +6,40 @@
 
 <table>
 <tr>
-<td valign="middle" width="60%">
+<td valign="middle" width="55%">
 
-### 🛠️ Tecnologias
-
-<p>
+<p align="center">
   <img align="center" alt="ina-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="ina-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="ina-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="ina-git" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="ina-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="ina-scss" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" />
+  <img align="center" alt="ina-scss" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+  <img align="center" alt="ina-react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="ina-ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="ina-node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="ina-tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="ina-postgres" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 </p>
 
-### 📫 Contato
-
-<a href="https://www.linkedin.com/in/inara-bagatoli-811494213/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/inara-bagatoli-811494213/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 </td>
-<td valign="middle" width="40%" align="center">
-  <img height="200" alt="ina" src="https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gifv" />
+<td valign="middle" width="45%">
+  <img width="100%" alt="ina" src="https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gifv" />
 </td>
 </tr>
 </table>
 
 <br>
 
-### 📊 Estatísticas
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iiinaraaa&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top languages" />
 </div>
 
 <br>
